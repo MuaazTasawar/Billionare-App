@@ -58,7 +58,7 @@ lib/
 - App restores last saved balance on restart
 ---
 
-
+## ▶️ How to Run the App
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/MuaazTasawar/Billionare-App.git
